@@ -1,0 +1,14 @@
+#ifndef _PARSEPOSE_H_
+#define _PARSEPOSE_H_
+
+//四个轮子编码器的计数
+extern long rightfrontEncoderCnt;
+extern long rightrearEncoderCnt;
+extern long leftrearEncoderCnt;
+extern long leftfrontEncoderCnt;
+
+
+extern void motionModel(long leftCnt,long rightCnt);
+
+#endif // _PARSEPOSE_H_
+

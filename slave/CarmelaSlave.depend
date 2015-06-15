@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1433419319 source:f:\projects\codeblocks\carmelaslave\src\carmelareport.c
+	<Arduino.h>
+	"src/parsePackage.h"
+	"src/ParsePose.h"
+	"src/CarmelaAction.h"
+
+1407415905 source:f:\projects\codeblocks\carmelaslave\src\parsepackage.c
+	<Arduino.h>
+	"src/CarmelaAction.h"
+
+1407415597 source:f:\projects\codeblocks\carmelaslave\src\carmelaaction.c
+	<Arduino.h>
+
+1371033102 d:\program files\codeblocks\arduino\hardware\arduino\cores\arduino\arduino.h
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<avr/pgmspace.h>
+	<avr/io.h>
+	<avr/interrupt.h>
+	"binary.h"
+	"WCharacter.h"
+	"WString.h"
+	"HardwareSerial.h"
+	"pins_arduino.h"
+
+1362986950 d:\program files\codeblocks\arduino\hardware\arduino\cores\arduino\binary.h
+
+1362986950 d:\program files\codeblocks\arduino\hardware\arduino\cores\arduino\wcharacter.h
+	<ctype.h>
+
+1371033134 d:\program files\codeblocks\arduino\hardware\arduino\cores\arduino\wstring.h
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<avr/pgmspace.h>
+
+1362986950 d:\program files\codeblocks\arduino\hardware\arduino\cores\arduino\hardwareserial.h
+	<inttypes.h>
+	"Stream.h"
+	"USBAPI.h"
+
+1371032830 d:\program files\codeblocks\arduino\hardware\arduino\cores\arduino\stream.h
+	<inttypes.h>
+	"Print.h"
+
+1362986950 d:\program files\codeblocks\arduino\hardware\arduino\cores\arduino\print.h
+	<inttypes.h>
+	<stdio.h>
+	"WString.h"
+	"Printable.h"
+
+1362986950 d:\program files\codeblocks\arduino\hardware\arduino\cores\arduino\printable.h
+	<new.h>
+
+1362986950 d:\program files\codeblocks\arduino\hardware\arduino\cores\arduino\new.h
+	<stdlib.h>
+
+1362986950 d:\program files\codeblocks\arduino\hardware\arduino\cores\arduino\usbapi.h
+
+1362986950 d:\program files\codeblocks\arduino\hardware\arduino\variants\mega\pins_arduino.h
+	<avr/pgmspace.h>
+
+1407415745 f:\projects\codeblocks\carmelaslave\src\parsepackage.h
+
+1407415597 f:\projects\codeblocks\carmelaslave\src\parsepose.h
+
+1407415597 f:\projects\codeblocks\carmelaslave\src\carmelaaction.h
+
+1407415905 source:f:\projects\codeblocks\carmelaslave\carmelaslave.ino
+	<Arduino.h>
+	"src/parsePose.h"
+	"src/CarmelaReport.h"
+	"src/parsePackage.h"
+	"src/CarmelaAction.h"
+
+1407415745 f:\projects\codeblocks\carmelaslave\src\carmelareport.h
+
+1407415597 source:f:\projects\codeblocks\carmelaslave\src\parsepose.c
+	<Arduino.h>
+
